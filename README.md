@@ -89,7 +89,7 @@ Pillow
 Streamlit
 PyYAML
 Clone the Repository
-git clone https://github.com/Harini1058/YOLOV11-Image-Search-App.git
+git clone https://github.com/Harini1058/YOLOV11-Image-Search-App.git.
 cd YOLOV11-Search-App
 Create Conda Environment
 conda create -n yolo_image_search python=3.11
